@@ -1,0 +1,10 @@
+services:
+  proxctl:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    # image: ""
+    container_name: proxctl
+    volumes:
+      - ./app/:/opt/app/
+    tty: true

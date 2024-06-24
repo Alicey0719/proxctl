@@ -1,2 +1,4 @@
 github.com/Telmate/proxmox-api-go v0.0.0-20240318115458-a76eb2351c37 h1:KHxqr7uHsTZJuFafAH2xEvfaFrA5QlU8m9S+FbSaO7Q=
 github.com/Telmate/proxmox-api-go v0.0.0-20240318115458-a76eb2351c37/go.mod h1:bscBzOUx0tJAdVGmQvcnoWPg5eI2eJ6anJKV1ueZ1oU=
+github.com/Telmate/proxmox-api-go v0.0.0-20240624063742-b5ee3f5af00b h1:2L3j1JKlYwvmjIwFFZGaCABv5JHohxhdsqOZH/pwgY8=
+github.com/Telmate/proxmox-api-go v0.0.0-20240624063742-b5ee3f5af00b/go.mod h1:O6yNUi0hG9GQLMBgpikSvbnuek1OMweFtbac1sfGuUs=

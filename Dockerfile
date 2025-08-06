@@ -1,4 +1,4 @@
-FROM golang:1.22.2-bullseye
+FROM golang:1.24.6-bullseye
 
 COPY ./app /opt/app/
 

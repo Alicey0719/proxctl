@@ -1,2 +1,10 @@
 github.com/Telmate/proxmox-api-go v0.0.0-20240318115458-a76eb2351c37 h1:KHxqr7uHsTZJuFafAH2xEvfaFrA5QlU8m9S+FbSaO7Q=
 github.com/Telmate/proxmox-api-go v0.0.0-20240318115458-a76eb2351c37/go.mod h1:bscBzOUx0tJAdVGmQvcnoWPg5eI2eJ6anJKV1ueZ1oU=
+github.com/Telmate/proxmox-api-go v0.0.0-20261110194419-94f75017ef04 h1:WL3xMmU5f//S0c3TlnVU8FOYuiTz+oy4SadoTRCAwpc=
+github.com/Telmate/proxmox-api-go v0.0.0-20261110194419-94f75017ef04/go.mod h1:B/uzpWnXdSP22EevvNe6tpEmYBIuZ+ok8K8NvyC3szE=
+github.com/coder/websocket v1.8.15 h1:6B2JPeOGlpff2Uz6vOEH1Vzpi0iUz20A+lPVhPHtNUA=
+github.com/coder/websocket v1.8.15/go.mod h1:NX3SzP+inril6yawo5CQXx8+fk145lPDC6pumgx0mVg=
+golang.org/x/crypto v0.58.0 h1:COkYLr4k7nDI4r6QtMML2AfzeIswWHAJthLS6K/M/54=
+golang.org/x/crypto v0.58.0/go.mod h1:Xh+kl5A+M0gMiWDytH2Hhr5Z7WbNCpv/eB/EFgfSk+w=
+golang.org/x/sys v0.49.0 h1:XbzkgYJHdqh/8m2Uu0W/dQv8nktxx4BFHp1M0gROTXA=
+golang.org/x/sys v0.49.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
